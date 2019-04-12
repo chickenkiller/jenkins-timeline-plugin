@@ -48,6 +48,6 @@
     "eslint-plugin-prettier": "^3.0.0",
     "install": "^0.12.2",
     "npm": "^6.4.1",
-    "prettier": "^1.15.2"
+    "prettier": "^1.17.0"
   }
 }
